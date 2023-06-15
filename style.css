@@ -14,7 +14,7 @@ body {
     padding: 24px 0;
 }
 
-@media screen and (max-width: 800px){
+@media screen and (max-width: 400px){
     .cabecalho {background-color: #ffffff;
         color: black;
         display: flex;
