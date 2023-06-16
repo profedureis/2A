@@ -22,6 +22,16 @@ body {
         align-items: center;
         padding: 12px 0}}
 
+
+@media screen and (min-width: 400px){
+            .cabecalho {background-color: #37d667;
+                color: rgb(245, 15, 15);
+                display: flex;
+                justify-content: space-around;
+                align-items: center;
+                padding: 12px 0}}
+        
+
 .cabecalho-imagem{
     width: 20%;
 }
