@@ -14,15 +14,6 @@ body {
     padding: 24px 0;
 }
 
-@media (max-width: 800px){
-    .cabecalho {background-color: #ffffff;
-        color: rgb(245, 15, 15);
-        display: flex;
-        justify-content: space-around;
-        align-items: center;
-        padding: 12px 0}}
-
-
 .cabecalho-imagem{
     width: 20%;
 }
