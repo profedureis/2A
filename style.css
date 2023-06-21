@@ -63,3 +63,12 @@ body {
     padding: 16px 0;
 }
 
+@media (max-width: 800px){
+    .cabecalho {
+        background-color: #ffffff;
+        color: #424E61;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        padding: 24px 0;   
+}
